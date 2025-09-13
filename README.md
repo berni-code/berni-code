@@ -11,3 +11,10 @@ Data Analyst that believes in the power of the data to make improvements that ca
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6C37?style=for-the-badge&logo=Mathplotlib&logoColor=pink)]()
 [![Pyspark](https://img.shields.io/badge/Spark-20232A?style=for-the-badge&logo=Spark&logoColor=orange)]()
 [![Databricks](https://img.shields.io/badge/Databricks-B73BFE?style=for-the-badge&logo=Databricks&logoColor=gray)]()
+
+And some more...
+
+---
+
+## 📊 My stats
+<img align="center" width="600" alt="Data" src="general.svg">
