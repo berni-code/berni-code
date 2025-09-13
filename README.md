@@ -2,7 +2,7 @@
 Data Analyst that believes in the power of the data to make improvements that can be made thanks to their analysis for the best decision making.
 
 ## 💻 Tecnologies
-[![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E)]()
 [![SQL](https://img.shields.io/badge/SQL%20js-000000?style=for-the-badge&logo=express&logoColor=white)]()
 [![ETL](https://img.shields.io/badge/ELT-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![LookerStudio](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
