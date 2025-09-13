@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello there! , I'm Berni :)</h1>
-<img width="1584" height="396" alt="Banner de LinkedIn Ingeniero Civil Profesional Azul y Naranja  " src="https://github.com/user-attachments/assets/3c024b83-ff71-47e9-bf9e-f4fb7f81bf54" />
+<img width="1584" height="396" alt="Banner de LinkedIn Ingeniero Civil Profesional Azul y Naranja   (2)" src="https://github.com/user-attachments/assets/1052e9ad-72de-4330-a854-1fbcea84ed72" />
+
 I´m a Data Analyst whit a geniune passion for learnig and making a positive impact in the world of Data Analytics.I believes in the power of the data to make improvements that can be made thanks to their analysis for the best decision making.
 
 
